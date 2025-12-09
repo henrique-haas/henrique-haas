@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ## 👋 Who I Am  
 I'm Henrique, a designer transitioning into the world of Python development.  
 From visual design to clean, functional code.
