@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**henrique-haas/henrique-haas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Who I Am  
+I'm Henrique, a designer transitioning into the world of Python development.  
+From visual design to clean, functional code.
 
-Here are some ideas to get you started:
+## 🔧 What I'm Currently Doing  
+- Learning **Python** and building small projects  
+- Studying **software development fundamentals**  
+- Exploring **automation**, **APIs**, and data workflows  
+- Expanding my portfolio with practical exercises
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools I Use  
+- **Python**  
+- **HTML and CSS**  
+- **VS Code**  
+- **Figma**  
+- **Notion**
+
+## 📫 How to Reach Me  
+- [**Email**](mailto:henriquemhaas@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/henriquemhaas/)  
